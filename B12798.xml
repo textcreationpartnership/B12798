@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for reuoking all licences heretofore granted for erecting nevv buildings vvithin the citie of London, or two miles distance together with a restraint for building within the same compasse.</title>
+            <title>Proclamations. 1618-07-20</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12798</idno><idno type="EEBO-CITATION">99836606</idno>
+  <idno type="VID">178441</idno>
+  <idno type="EEBO-PROQUEST">2240924754</idno>
+  <idno type="STC">STC 8573</idno>
+  <idno type="STC">ESTC S100777</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99836606e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for reuoking all licences heretofore granted for erecting nevv buildings vvithin the citie of London, or two miles distance together with a restraint for building within the same compasse.</title>
+                  <title>Proclamations. 1618-07-20</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton, and Iohn Bill, deputie printers for the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno M.DC.XVIII. [1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: "Westminster the twentieth day of Iuly, in the sixteenth yeere of our raigne of England, France and Ireland, and of Scotland the two and fiftieth." Variant: Scottish regnal year corrected to "one and fiftieth".</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In this edition sheet [2] line 1 ends: erect,.</note>
+                  <note>Identified as STC 8574 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Buildings --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">City planning --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Buildings, structures, etc. --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:178441:1"/>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation for reuoking all Licences here<g ref="char:EOLhyphen"/>tofore granted for erecting new Buildings within the Citie of London, or two miles distance: together with a Restraint for building within the same Compasse.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee, vpon consideration of the great inconueniences</hi> dayly arising by the multitude of new Buildings from time to time erected in and neere Our Citie of London: And out of the tender care We haue of the welfare of Our louing Subiects, haue published sundry Our former Proclamations: aswel for restraining of new erections not meete to be tollerated, as for prescribing a forme of Building, in Cases where the same might without inconuenience be permitted. And yet there hath not ensued thereupon such reformation as Our care might expect; But the excesse of new Buildings and erections haue dayly more and more increased, and is still like so to doe; Whereby, and by the immoderate confluence of people thither, Our said City, and the places adioyning, are and dayly will be more and more pestered, all Victuals and other prouision endeared, Malefactors incouraged, the City and parts adioyning, for the vastnesse thereof being not with any ordinary care or prouision of Officers to be gouerned, the health of Our Subiects endangered, and other parts of Our Realme vnpeopled, which inconueniences haue growne to this height, partly by neglect of Our directions in that behalfe, and partly by the abuse of sundry Licenses, Tollerations and Dispensations, some of which haue been granted by others, without sufficient warrant or authority from Vs, and others which haue been granted by Vs, are not only defectiue in Law, both in respect of the misobteyning of the same vpon vntrue suggestions, and otherwise, but also in the execution thereof, haue bene so farre abused and strai<g ref="char:EOLhyphen"/>ned beyond Our intention, and all moderat bounds that in Our Princely care and zeale to the good of Our people, Wee may not omit to vse all Lawfull meanes for a due reformation of these so great inconueniences: And therefore it being consonant to Law vpon so iust grounds, to re<g ref="char:EOLhyphen"/>uoke and make voydall the said Licenses.</p>
+            <p>We doe hereby signifie and declare Our will and pleasure to Reuoke and determine; and doe hereby (as much as in Vs lyeth) from hencefoorth reuoke and determine all and singular Licen<g ref="char:EOLhyphen"/>ces, made or granted for the Erecting, Building or setting vp any Houses or Buildings within Our said City of London, or within two miles of any the gates of the said Citie, contrary to Our intension herein expressed.</p>
+            <p>And We doe hereby charge &amp; command, that no person or persons whatsoeuer shal at any time hereafter presume to erect or Build any maner of house or Building whatsoeuer, within Our said City of London, or within two miles of any the Gates of the same City, either within Liberties or without, by force of any such Licence reuoked, or by any other colour or pretext whatsoeuer, ex<g ref="char:EOLhyphen"/>cept the same be vpon an old Foundation of an House or Building erected and finished, before the Feast of S. Michael Th'archangel, in the thirteenth yeere of Our reigne ouer this Our Realme of England: Nor to erect any dwelling house vpon the Foundation of any Barne, Stable, Shed or other Building, not formerly vsed for habitation, but that they &amp; euery of them doe from hence<g ref="char:EOLhyphen"/>foorth vtterly surcease and desist from all maner of Erections and Buildings whatsoeuer to be made, except they be vpon old Foundations as aforesaid, which We will not shalbe exceeded or inlarged in the setting vp of such new Building.</p>
+            <pb facs="tcp:178441:2"/>
+            <p>And further, That all and euery person and persons, which at any time hereafter shall erect, build, or set vp within any the Limits, Places or Precincts aforesaid, any manner of Houses, or o<g ref="char:EOLhyphen"/>ther Buildings whatsoeuer, shall make and build the same of such height, and in such manner and forme as herein is expressed (That is to say) Euery whole Story of and in such Houses and Buil<g ref="char:EOLhyphen"/>dings; and all &amp; euery the Roomes of such whole Story shalbe of the height of ten foote of Assise at the least; And euery halfe Story of and in such Houses and Buildings, shal be of the height of seuen foote &amp; a halfe of assise at the least: And that the Forefront, &amp; outer Walles &amp; windows ther<g ref="char:EOLhyphen"/>of shall be of Bricke, or of Bricke and Stone: And if the said building do not exceede two Stories in height, then the walles therof shalbe of the thicknes of one Brickes and halfe a Bricks length frō the ground vnto the vppermost part of the said wals: And where the building shalbe aboue the height of two Stories, the walles of the first Storie shall be of the thicknesse of two Brickes length; and from thence vnto the vppermost part of the wall, of the thicknes of one Brickes and halfe a Brickes length: And that in building of the said Houses, there shalbe no Iutties, or iut<g ref="char:EOLhyphen"/>ting Windowes, either vpon Timber ioysts, or otherwise, but the walles to go direct &amp; straight vpwards, and at the setting off, a water table to bee made. Also the Lights in the Windows of euery whole Story to be of more height then bredth, to the end there may bee a sufficient peere of Bricke betweene the Windowes for strength: And likewise the Windowes of euery halfe Story to be made square euery way, or neere thereabouts. And lastly, that all Shops in euery principal Street of Trade, be made with Pillasters of hard Stone or Bricke cut in Wedges Archwise, Vp<g ref="char:EOLhyphen"/>on paine that all persons directly or indirectly neglecting or disobeying this our Proclamation, or doing any thing contrary to the tenor thereof, or of any part thereof, shall endure and abide such Censure in Our high Court of Starre-Chamber, as shall be adiudged against them for their of<g ref="char:EOLhyphen"/>fences, &amp; as contemners of Our Royall Commandement. And Wee do also straitly charge and command all and singular Maiors, Shiriffes, Iustices of Peace, and all other our Officers and Ministers, That they and euery of them vse all diligence to see the premisses well &amp; duely perfor<g ref="char:EOLhyphen"/>med, and do by all lawfull wayes and meanes hinder and restraine all proceedings and attempts to the contrary of Our pleasure herein declared. And if any person or persons shall by colour of any such Licence, Toleration or Dispensation, as aforesayd, doe, or attempt any thing contrary to this Our Proclamation, the said Maiors, Shiriffes, Iustices of Peace, &amp; other Our Officers and Ministers shall neuerthelesse proceede in the execution of this Our Royall Commandement vntill vpon due examination of the validitie of the same Licences, Tolerations or Dispensati<g ref="char:EOLhyphen"/>ons, they shall receiue other direction from Vs or Our Priuie Councell.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Palace of Westminster <date>the twentieth day of Iuly, in the sixteenth yeere of Our Raigne of England, France and Ireland, and of Scotland the <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and Fiftieth.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, deputie Printers for the Kings most <hi>Excellent Maiestie.</hi> ANNO M.DC.XVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
